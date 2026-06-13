@@ -1,70 +1,99 @@
-# Hey, I'm Syco 👋
+<div align="center">
+MR SYCO
 
-> *Cybersecurity student. Ethical hacker in training. Bug bounty hunter (soon).*
+Cybersecurity Student · Ethical Hacker · Bug Bounty Hunter
 
----
+Show Image
 
-## 🧠 About Me
+</div>
 
-- 🔐 Cybersecurity student — **3MTT Cybersecurity Program**
-- 🎯 Currently grinding **HackTheBox** & **TryHackMe**
-- 🐛 Working toward live **bug bounty hunting**
-- 🐧 Daily driving **Kali Linux** (VirtualBox)
-- 📍 Based in **Lagos, Nigeria**
-- 🎓 B.Sc. International Relations — pivoting into security
+whoami
 
----
+bashsyco@Karma:~$ cat about.txt
 
-## 🛠️ Tools & Skills
+Name     : David (MR SYCO)
+Location : Lagos, Nigeria
+Track    : 3MTT Cybersecurity — Ethical Hacking & Cloud Security
+Focus    : Bug Bounty Hunting | Smart Contract Auditing | Pentesting
+Programs : Immunefi (Berachain) | Open Source Contributor
+Degree   : B.Sc. International Relations | ISCG University, Cotonou
+Prev     : Assistant Flight Dispatcher Intern — NAMA (Nigerian Airspace)
+GitHub   : @Sycosmile
+X        : @Sycosmile
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Recon:** Nmap · Nikto · WPScan · theHarvester · WhatWeb · Shodan · DNSrecon  
-**Exploitation:** Metasploit · SQLMap · Hydra  
-**OPSEC:** Proxychains · Tor  
-**Web:** Burp Suite · FFUF · Gobuster  
+🛠️ Tools & Stack
 
----
+Recon & OSINT
 
-## 📂 Featured Projects
+Show Image
+Show Image
+Show Image
+Show Image
 
-| Project | Description |
-|--------|-------------|
-| [CTFMate](https://github.com/Sycosmile/CTFMATE) | CTF assistant tool built in Python |
-| [TG-Threat-Monitor](https://github.com/Sycosmile/TG-Threat-Monitor) | Telegram-based threat monitoring bot |
-| [Telegram-Git-repo-bot](https://github.com/Sycosmile/Telegram-Git-repo-bot) | Telegram bot for GitHub repo management |
+Exploitation & Web Testing
 
----
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 🎯 Current Focus
+Crypto & Forensics
 
-- [ ] Completing HTB easy machines independently
-- [ ] Pushing into HTB medium machines
-- [ ] Building writeup documentation habit
-- [ ] Phase 1 of Bug Bounty curriculum
-- [ ] Growing GitHub presence with security projects
+Show Image
+Show Image
+Show Image
 
----
+OPSEC & Environment
 
-## 📊 GitHub Stats
+Show Image
+Show Image
+Show Image
+Show Image
 
-![Sycosmile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sycosmile&show_icons=true&theme=calm&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sycosmile&layout=compact&theme=calm&hide_border=true)
+Dev
 
----
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 📬 Connect
 
-> I'm building in public. Follow the journey.
+🚀 Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sycosmile-181717?style=for-the-badge&logo=github)](https://github.com/Sycosmile)
+ProjectDescriptionStackCTFMateCLI tool for tracking CTF challenges — flags, notes, progressPython · Click · RichBugBotBug bounty AI assistant with cybersecurity tools baked inPython · Anthropic APIGIT KING BotMulti-user Telegram bot for GitHub repo management (@Gitking01bot)Python · Telegram API · GitHub APIGrantStream EscrowSolidity escrow contract — PR merged (Issue #1); reentrancy protection (Issue #30)Solidity · HardhatXFUELNigerian digital marketplace — airtime, game top-ups, gift cards, streamingReact · Node.js · Paystack · VTPass
 
----
+
+🏆 3MTT Cybersecurity Track — Achievements
+
+ProjectScoreNotesNetwork Traffic Analysis (Wireshark)95 / 100Live packet capture & protocol analysisCybersecurity Audit Report90 / 100Real Nmap/Nikto/WPScan scans on live WordPress siteAES-128-CBC Cryptography Report90 / 100CyberChef + SHA-256 integrity demo + tamper testVLAN Configuration (Cisco Packet Tracer)✅ SubmittedFull trunk/access port topologyRisk Classification Assessment10 / 10Perfect scoreSolarWinds SUNBURST Breach Analysis✅ SubmittedThreat intel deep-dive
+
+
+🎯 Current Focus
+
+
+🔍 Active bug bounty — Immunefi (Berachain contracts repo, up to $250K critical)
+📖 Structured bug bounty curriculum — web app & smart contract phases
+☁️ Cloud security (AWS fundamentals)
+🧪 CTF practice via TryHackMe (completed: Pickle Rick)
+🤝 Open source contributions — Solidity & Python
+
+
+
+📊 GitHub Stats
+
+<div align="center">
+Show Image
+
+Show Image
+
+Show Image
+
+</div>
+
+....
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux motto
