@@ -110,7 +110,7 @@ X        : @Sycosmile
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sycosmile&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sycosmile&theme=tokyonight&hide_border=true)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
@@ -129,6 +129,6 @@ X        : @Sycosmile
 *"The quieter you become, the more you are able to hear."*
 — Kali Linux motto
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Sycosmile&color=6E9EFF&style=flat&label=Profile+Views)
+![Page Hits](https://komarev.com/ghpvc/?username=Sycosmile&color=6E9EFF&style=flat&label=Page+Hits)
 
 </div>
