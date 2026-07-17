@@ -18,7 +18,7 @@ Name     : David (MR SYCO)
 Location : Lagos, Nigeria
 Track    : 3MTT Cybersecurity — Ethical Hacking & Cloud Security
 Focus    : Bug Bounty Hunting | Smart Contract Auditing | Pentesting
-Programs : Immunefi (Berachain) | Open Source Contributor
+Programs : Immunefi | CodeHawks | Sherlock | Cantina | OnlyDust
 Degree   : B.Sc. International Relations | ISCG University, Cotonou
 Prev     : Assistant Flight Dispatcher Intern — NAMA (Nigerian Airspace)
 GitHub   : @Sycosmile
@@ -74,31 +74,30 @@ X        : @Sycosmile
 |---|---|---|
 | [CTFMate](https://github.com/Sycosmile/CTFMate) | CLI tool for tracking CTF challenges — flags, notes, progress | Python · Click · Rich |
 | [BugBot](https://github.com/Sycosmile/BugBot) | Bug bounty AI assistant with cybersecurity tools baked in | Python · Anthropic API |
-| [GIT KING Bot](https://github.com/Sycosmile/bug-bounty-ai) | Multi-user Telegram bot for GitHub repo management (`@Gitking01bot`) | Python · Telegram API · GitHub API |
+| [GIT KING Bot](https://github.com/Sycosmile/Telegram-Git-repo-bot) | Multi-user Telegram bot for GitHub repo management (`@Gitking01bot`) | Python · Telegram API · GitHub API |
+| [TG-Threat-Monitor](https://github.com/Sycosmile/TG-Threat-Monitor) | Telegram-based threat intelligence monitor | Python · Telegram API |
+| Daemonbot | Multi-chain AI crypto Telegram bot — scan cards, PNL tracking, RugCheck integration, CA/ticker autodetection across 6 chains | Python · Groq Llama 3.3 · Redis |
 | [GrantStream Escrow](https://github.com/teethaking/GrantStream) | Solidity escrow contract — PR merged (Issue #1); reentrancy protection (Issue #30) | Solidity · Hardhat |
-| [XFUEL](https://github.com/Sycosmile) | Nigerian digital marketplace — airtime, game top-ups, gift cards, streaming | React · Node.js · Paystack · VTPass |
+| [XFUEL](https://github.com/Sycosmile) *(deprioritized)* | Nigerian digital marketplace — airtime, game top-ups, gift cards, streaming | React · Node.js · Paystack · VTPass |
 
 ---
 
-## 🏆 3MTT Cybersecurity Track — Achievements
+## 🐍 Contribution Graph
 
-| Project | Score | Notes |
-|---|---|---|
-| Network Traffic Analysis (Wireshark) | **95 / 100** | Live packet capture & protocol analysis |
-| Cybersecurity Audit Report | **90 / 100** | Real Nmap/Nikto/WPScan scans on live WordPress site |
-| AES-128-CBC Cryptography Report | **90 / 100** | CyberChef + SHA-256 integrity demo + tamper test |
-| VLAN Configuration (Cisco Packet Tracer) | ✅ Submitted | Full trunk/access port topology |
-| Risk Classification Assessment | **10 / 10** | Perfect score |
-| SolarWinds SUNBURST Breach Analysis | ✅ Submitted | Threat intel deep-dive |
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Sycosmile/Sycosmile/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔍 Active bug bounty — **Immunefi** (Berachain `contracts` repo, up to $250K critical)
-- 📖 Structured bug bounty curriculum — web app & smart contract phases
+- 🔍 Active bug bounty — **Immunefi**, **CodeHawks**, **Sherlock**, **Cantina**, **OnlyDust**
+- 🏁 First merged open-source PR shipped (GrantStream escrow contract) — next up: CodeHawks First Flights for PoC-writing reps
 - ☁️ Cloud security (AWS fundamentals)
-- 🧪 CTF practice via TryHackMe (completed: Pickle Rick)
+- 🧪 CTF practice via TryHackMe & HackTheBox
 - 🤝 Open source contributions — Solidity & Python
 
 ---
