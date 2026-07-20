@@ -100,8 +100,6 @@ X        : @MrSyco09
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sycosmile&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](./profile/streak.svg)
-
 </div>
 
 ---
