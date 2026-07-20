@@ -1,9 +1,9 @@
 <div align="center">
 
 # MR SYCO
-### Cybersecurity Student · Ethical Hacker · Bug Bounty Hunter
+### Cybersecurity Professional · Ethical Hacker · Bug Bounty Hunter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E9EFF&center=true&vCenter=true&width=500&lines=Ethical+Hacker+in+Training;Bug+Bounty+Hunter+%7C+Immunefi;3MTT+Cybersecurity+Track+%7C+Nigeria;Breaking+things+to+build+them+better)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E9EFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Professional;Bug+Bounty+Hunter+%7C+Immunefi;3MTT+Cybersecurity+Track+%7C+Nigeria;Breaking+things+to+build+them+better)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@ Programs : Immunefi | CodeHawks | Sherlock | Cantina | OnlyDust
 Degree   : B.Sc. International Relations | ISCG University, Cotonou
 Prev     : Assistant Flight Dispatcher Intern — NAMA (Nigerian Airspace)
 GitHub   : @Sycosmile
-X        : @Sycosmile
+X        : @MrSyco09
 ```
 
 ---
@@ -76,19 +76,9 @@ X        : @Sycosmile
 | [BugBot](https://github.com/Sycosmile/BugBot) | Bug bounty AI assistant with cybersecurity tools baked in | Python · Anthropic API |
 | [GIT KING Bot](https://github.com/Sycosmile/Telegram-Git-repo-bot) | Multi-user Telegram bot for GitHub repo management (`@Gitking01bot`) | Python · Telegram API · GitHub API |
 | [TG-Threat-Monitor](https://github.com/Sycosmile/TG-Threat-Monitor) | Telegram-based threat intelligence monitor | Python · Telegram API |
-| Daemonbot | Multi-chain AI crypto Telegram bot — scan cards, PNL tracking, RugCheck integration, CA/ticker autodetection across 6 chains | Python · Groq Llama 3.3 · Redis |
+| [Daemonbot](https://github.com/Sycosmile/Daemonbot) | Multi-chain AI crypto Telegram bot — scan cards, PNL tracking, RugCheck integration, CA/ticker autodetection across 6 chains | Python · Groq Llama 3.3 · Redis |
 | [GrantStream Escrow](https://github.com/teethaking/GrantStream) | Solidity escrow contract — PR merged (Issue #1); reentrancy protection (Issue #30) | Solidity · Hardhat |
 | [XFUEL](https://github.com/Sycosmile) *(deprioritized)* | Nigerian digital marketplace — airtime, game top-ups, gift cards, streaming | React · Node.js · Paystack · VTPass |
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Sycosmile/Sycosmile/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -118,8 +108,8 @@ X        : @Sycosmile
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_James-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-james-688293342/)
-[![X](https://img.shields.io/badge/X-@Sycosmile-000000?style=flat&logo=x&logoColor=white)](https://x.com/Sycosmile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_James-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesdavid009/)
+[![X](https://img.shields.io/badge/X-@MrSyco09-000000?style=flat&logo=x&logoColor=white)](https://x.com/MrSyco09)
 [![GitHub](https://img.shields.io/badge/GitHub-Sycosmile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sycosmile)
 
 ---
@@ -128,7 +118,5 @@ X        : @Sycosmile
 
 *"The quieter you become, the more you are able to hear."*
 — Kali Linux motto
-
-![Page Hits](https://komarev.com/ghpvc/?username=Sycosmile&color=6E9EFF&style=flat&label=Page+Hits)
 
 </div>
