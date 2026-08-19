@@ -12,7 +12,7 @@
 ## whoami
 
 ```bash
-syco@Karma:~$ cat about.txt
+syco@karma:~$ cat about.txt
 Name       : David James Omeiza (MR SYCO)
 Location   : Lagos, Nigeria
 Track      : 3MTT Cybersecurity — Ethical Hacking & Cloud Security
