@@ -55,12 +55,15 @@ X          : @MrSyco09
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| **DaemonBot** | Multi-chain AI crypto Telegram bot — RugCheck integration, PNL/scan cards, CA autodetect across Solana/ETH/Base/BSC/Arbitrum/Polygon | Python · Groq · Redis | Active |
-| **TG-Threat-Monitor** | Passively monitors public Telegram channels for CVEs, malware hashes, IPs/domains & IOCs, with VirusTotal enrichment and HTML reporting | Python · Telethon · SQLite | v1.0.0 Released |
-| **Sentinel Review** | AI-powered GitHub Action — sends PR diffs to Claude for security analysis, posts findings as inline review comments | TypeScript · Claude API | Contributed |
-| **CTFMate** | CLI tool to track CTF challenges, flags, and notes; planned security DSL for detection rules | Python · Click · Rich | Active |
-| **GIT KING Bot** | Multi-user Telegram bot for GitHub repo management | Python · SQLite · Railway | Active |
-| **BugBot** | Claude-powered bug bounty & pentesting reference assistant (recon, web app testing, exploitation, OPSEC) as a claude.ai artifact | React (JSX) · Anthropic API | Reference tool |
+| **[DaemonBot](https://github.com/Sycosmile/Daemonbot)** | Multi-chain AI crypto Telegram bot — RugCheck integration, PNL/scan cards, CA autodetect across Solana/ETH/Base/BSC/Arbitrum/Polygon | Python · Groq · Redis | Active |
+| **[TG-Threat-Monitor](https://github.com/Sycosmile/TG-Threat-Monitor)** | Passively monitors public Telegram channels for CVEs, malware hashes, IPs/domains & IOCs, with VirusTotal enrichment and HTML reporting | Python · Telethon · SQLite | v1.0.0 Released |
+| **[subrecon](https://github.com/Sycosmile/subrecon)** | Modular subdomain recon tool — passive enumeration (crt.sh, HackerTarget), active DNS brute-forcing, and HTTP liveness checking in one pipeline | Python | v1.0.0 Released |
+| **[Bug-bounty-ai](https://github.com/Sycosmile/Bug-bounty-ai)** | Autonomous bug bounty scanning system — recon, web/API/auth testing skills, AI-driven planning, scoring, and structured report generation | Python | Active |
+| **[NET-OS](https://github.com/Sycosmile/NET-OS)** | Self-monitoring network OS simulation — live system metrics, trend prediction, anomaly detection, and a strategy engine, all exposed via FastAPI + live dashboard | Python · FastAPI · SQLite | Active |
+| Sentinel Review | AI-powered GitHub Action — sends PR diffs to Claude for security analysis, posts findings as inline review comments | TypeScript · Claude API | Contributed |
+| **[CTFMATE](https://github.com/Sycosmile/CTFMATE)** | CLI tool to track CTF challenges, flags, and notes; planned security DSL for detection rules | Python · Click · Rich | Active |
+| **[GIT KING Bot](https://github.com/Sycosmile/Telegram-Gitbot-v2)** | Multi-user Telegram bot for GitHub repo management — browse/edit repos, issues, PRs, trigger multi-platform deploys, watch repos for activity | Python · SQLite · Railway | Active |
+| **[BugBot](https://github.com/Sycosmile/Claude-powered-bug-bounty-pentesting-reference-assistant)** | Claude-powered bug bounty & pentesting reference assistant (recon, web app testing, exploitation, OPSEC) as a claude.ai artifact | React (JSX) · Anthropic API | Reference tool |
 
 More projects and experiments on my repositories.
 
