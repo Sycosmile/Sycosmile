@@ -11,6 +11,8 @@ security research across web applications, with additional work in smart contrac
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=B8963E&center=true&vCenter=true&width=760&lines=Web+Application+Security+%7C+Bug+Bounty;Security+Automation+%7C+Python;Exploring+Smart+Contract+Security;Breaking+things+to+build+them+better)](https://git.io/typing-svg)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Sycosmile/badge.svg)](https://hub.xerj.org/contributors/Sycosmile)
+
 </div>
 
 ---
@@ -42,6 +44,35 @@ X          : @MrSyco09
 
 ---
 
+## Featured Projects
+
+Security-focused work first. Sentinel Review and Stellar Security Gate are my own projects, published under my second GitHub account, [Stackgirl01](https://github.com/Stackgirl01).
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| [**TG-Threat-Monitor**](https://github.com/Sycosmile/TG-Threat-Monitor) | Monitors public Telegram channels for CVEs, malware hashes, IPs, domains, and other IOCs, with VirusTotal enrichment and HTML reporting. | Python · Telethon · SQLite | v1.0.0 |
+| [**subrecon**](https://github.com/Sycosmile/subrecon) | Reconnaissance pipeline for passive subdomain enumeration, active DNS brute-forcing, and HTTP liveness checks. Use only on systems you own or are authorized to test. | Python | v1.0.0 |
+| [**Sentinel Review**](https://github.com/Stackgirl01/sentinel-review) | GitHub Action that sends pull-request diffs to Claude for security analysis and posts inline review comments. | TypeScript · Claude API | Published |
+| [**Stellar Security Gate**](https://github.com/Stackgirl01/stellar-security-gate) | GitHub Action for checking Soroban smart contracts for potential security issues in CI. | TypeScript · Soroban | Published |
+| [**Bug-bounty-ai**](https://github.com/Sycosmile/Bug-bounty-ai) | Experimental bug-bounty workflow project for reconnaissance, web/API testing support, AI-assisted planning, and structured reporting. See the repository for implemented capabilities and limitations. | Python | Active development |
+| [**CTFMATE**](https://github.com/Sycosmile/CTFMATE) | CLI tool for tracking CTF challenges, flags, and notes. | Python · Click · Rich | Active development |
+| [**BugBot**](https://github.com/Sycosmile/Claude-powered-bug-bounty-pentesting-reference-assistant) | Claude-powered reference assistant for bug-bounty and penetration-testing workflows, built as a Claude artifact. | React · Anthropic API | Reference tool |
+| [**DaemonBot**](https://github.com/Sycosmile/Daemonbot) | Telegram bot for multi-chain crypto monitoring, including RugCheck integration, PNL/scan cards, and contract-address detection across supported networks. | Python · Groq · Redis | Active development |
+| [**GIT KING Bot**](https://github.com/Sycosmile/Telegram-Gitbot-v2) | Multi-user Telegram bot for GitHub repository workflows, including issues, pull requests, deployments, and repository watching. | Python · SQLite · Railway | Active development |
+| [**NET-OS**](https://github.com/Sycosmile/NET-OS) | Network-monitoring simulation with live metrics, anomaly detection, and a strategy engine exposed through FastAPI and a dashboard. | Python · FastAPI · SQLite | Active development |
+
+More projects and experiments are available in my [repositories](https://github.com/Sycosmile?tab=repositories).
+
+---
+
+## Open Source Contributions
+
+| Project | Contribution | Recognition |
+|---|---|---|
+| [**Cougr**](https://github.com/salazarsebas/Cougr) | Merged [PR #346](https://github.com/salazarsebas/Cougr/pull/346): a turn-based web client for Cougr's turn-based contract template. React + TypeScript (Vite) app that connects to the Freighter wallet, rejects non-Testnet wallets, reads game state from Soroban RPC, and signs moves with the connected wallet. Includes tests and a CI workflow. | Selected for the [XERJ Corpus Hub](https://hub.xerj.org/contributors/Sycosmile), where AI coding agents retrieve it as a worked reference. |
+
+---
+
 ## Tools & Stack
 
 **Reconnaissance & OSINT**  
@@ -55,25 +86,6 @@ X          : @MrSyco09
 
 **Programming & Environment**  
 `Python` · `Bash` · `JavaScript` · `TypeScript` · `Kali Linux`
-
----
-
-## Featured Projects
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| [**DaemonBot**](https://github.com/Sycosmile/Daemonbot) | Telegram bot for multi-chain crypto monitoring, including RugCheck integration, PNL/scan cards, and contract-address detection across supported networks. | Python · Groq · Redis | Active development |
-| [**TG-Threat-Monitor**](https://github.com/Sycosmile/TG-Threat-Monitor) | Monitors public Telegram channels for CVEs, malware hashes, IPs, domains, and other IOCs, with VirusTotal enrichment and HTML reporting. | Python · Telethon · SQLite | v1.0.0 |
-| [**subrecon**](https://github.com/Sycosmile/subrecon) | Reconnaissance pipeline for passive subdomain enumeration, active DNS brute-forcing, and HTTP liveness checks. Use only on systems you own or are authorized to test. | Python | v1.0.0 |
-| [**Bug-bounty-ai**](https://github.com/Sycosmile/Bug-bounty-ai) | Experimental bug-bounty workflow project for reconnaissance, web/API testing support, AI-assisted planning, and structured reporting. See the repository for implemented capabilities and limitations. | Python | Active development |
-| [**NET-OS**](https://github.com/Sycosmile/NET-OS) | Network-monitoring simulation with live metrics, anomaly detection, and a strategy engine exposed through FastAPI and a dashboard. | Python · FastAPI · SQLite | Active development |
-| [**CTFMATE**](https://github.com/Sycosmile/CTFMATE) | CLI tool for tracking CTF challenges, flags, and notes. | Python · Click · Rich | Active development |
-| [**GIT KING Bot**](https://github.com/Sycosmile/Telegram-Gitbot-v2) | Multi-user Telegram bot for GitHub repository workflows, including issues, pull requests, deployments, and repository watching. | Python · SQLite · Railway | Active development |
-| [**BugBot**](https://github.com/Sycosmile/Claude-powered-bug-bounty-pentesting-reference-assistant) | Claude-powered reference assistant for bug-bounty and penetration-testing workflows, built as a Claude artifact. | React · Anthropic API | Reference tool |
-| [**Sentinel Review**](https://github.com/Stackgirl01/sentinel-review) | GitHub Action that sends pull-request diffs to Claude for security analysis and posts inline review comments. | TypeScript · Claude API | Published |
-| [**Stellar Security Gate**](https://github.com/Stackgirl01/stellar-security-gate) | GitHub Action for checking Soroban smart contracts for potential security issues in CI. | TypeScript · Soroban | Published |
-
-Sentinel Review and Stellar Security Gate are published under the [Stackgirl01](https://github.com/Stackgirl01) account. More projects and experiments are available in my [repositories](https://github.com/Sycosmile?tab=repositories).
 
 ---
 
@@ -91,8 +103,6 @@ My 3MTT Cohort 3 notes, covering Linux and networking fundamentals through attac
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sycosmile&layout=compact&hide_border=true&bg_color=00000000&title_color=1B2A49&text_color=6B6B6B" alt="Most-used languages for Sycosmile" />
 
 </div>
-
-<!-- Paste your streak stats block and snake graph here. -->
 
 ---
 
